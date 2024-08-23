@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chiragnebhani.bhl@gmail.com**
 
-- 📄 Know about my experiences [https://chiragnebhani.github.io/Portfolio/](https://chiragnebhani.github.io/Portfolio/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pfZCAJ4VV_jHo-jMWyx8yA1Nh5T1Vesg/view](https://drive.google.com/file/d/1pfZCAJ4VV_jHo-jMWyx8yA1Nh5T1Vesg/view)
 
 - ⚡ Fun fact **I work out daily**
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragnebhani&show_icons=true&locale=en" alt="chiragnebhani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragnebhani&" alt="chiragnebhani" /></p>
+
