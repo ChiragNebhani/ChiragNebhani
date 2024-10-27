@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pfZCAJ4VV_jHo-jMWyx8yA1Nh5T1Vesg/view](https://drive.google.com/file/d/1pfZCAJ4VV_jHo-jMWyx8yA1Nh5T1Vesg/view)
 
-- ⚡ Fun fact **I work out daily**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
