@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Music Streaming Platform**
 
-- 🌱 I’m currently learning **GOLANG**
+- 🌱 I’m currently learning **DSA**
 
 - 🤝 I’m open to collaborating on **Innovative and Exciting Web Projects**
 
